@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "fcb1234.aternos.me",
-    "port": 20705,
+    "port":20705,
     "version": "",
     "try-creative": false
   },
